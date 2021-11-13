@@ -1,0 +1,2 @@
+Testing from terminal 
+I am writing into the 2nd line and idea is to update to GH Repo
